@@ -6,10 +6,10 @@ int main()
     int d=a+b;
     if(d>c)
     {
-        printf("Valid triangle");
+    printf("Valid triangle");
     }
     else
     {
-        printf("Invalid triangle");
+    printf("Invalid triangle");
     }
 }
